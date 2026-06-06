@@ -46,10 +46,10 @@ public:
                     k--;
                     
                 }
-                if(answer < target){
+                else if(answer < target){
                     j++;
                 }
-                if(answer > target){
+                else{
                     k--;
                 }
             }  
