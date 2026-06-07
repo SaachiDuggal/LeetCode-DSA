@@ -19,6 +19,7 @@ Daily Data Structures and Algorithms (NeetCode 250)
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0680-valid-palindrome-ii) |
@@ -50,4 +51,8 @@ Daily Data Structures and Algorithms (NeetCode 250)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0001-two-sum) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
