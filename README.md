@@ -34,6 +34,7 @@ Daily Data Structures and Algorithms (NeetCode 250)
 | [0075-sort-colors](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0283-move-zeroes) |
+| [0724-find-pivot-index](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -55,4 +56,8 @@ Daily Data Structures and Algorithms (NeetCode 250)
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0020-valid-parentheses) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
