@@ -8,6 +8,7 @@ Daily Data Structures and Algorithms (NeetCode 250)
 | ------- |
 | [0011-container-with-most-water](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0075-sort-colors) |
@@ -76,5 +77,6 @@ Daily Data Structures and Algorithms (NeetCode 250)
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
