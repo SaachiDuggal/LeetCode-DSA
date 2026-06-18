@@ -16,6 +16,7 @@ Daily Data Structures and Algorithms (NeetCode 250)
 | [0125-valid-palindrome](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0283-move-zeroes) |
@@ -45,6 +46,7 @@ Daily Data Structures and Algorithms (NeetCode 250)
 | [0088-merge-sorted-array](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0283-move-zeroes) |
@@ -107,5 +109,6 @@ Daily Data Structures and Algorithms (NeetCode 250)
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
