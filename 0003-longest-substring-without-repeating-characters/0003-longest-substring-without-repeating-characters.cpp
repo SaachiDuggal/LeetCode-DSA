@@ -43,3 +43,11 @@ public:
         return max_length;
     }
 };
+
+
+
+/*
+1. we use nested loops, and for ever j moving forward we look back and check for its duplicacy in i to j-1. tc on2, sc o1
+2. we loop i and for each i we loop a j and add j in a hashmap, if a duplicate found we will record the size of the map and then i++ and do it again. tc on2 sc on.
+3. we point at i = 0, and then start a j loop for every j we check if s[j] exists in the hashmap (here unordered set as the order doesnt matter and we only need to store one thing hence set and not a map) if it exists, then we do i++ till s[j] isnt found in the map, and then we add s[j] to the map, then we calculate the length, then compare that length to max length
+*/
