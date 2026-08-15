@@ -42,6 +42,7 @@ Daily Data Structures and Algorithms (NeetCode 250)
 | [0015-3sum](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0027-remove-element) |
+| [0056-merge-intervals](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0118-pascals-triangle) |
@@ -60,6 +61,7 @@ Daily Data Structures and Algorithms (NeetCode 250)
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
 ## Greedy
@@ -111,4 +113,8 @@ Daily Data Structures and Algorithms (NeetCode 250)
 | ------- |
 | [0189-rotate-array](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0202-happy-number) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
