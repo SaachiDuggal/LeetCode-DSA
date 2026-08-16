@@ -43,6 +43,7 @@ Daily Data Structures and Algorithms (NeetCode 250)
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0055-jump-game](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0088-merge-sorted-array) |
@@ -70,6 +71,7 @@ Daily Data Structures and Algorithms (NeetCode 250)
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
 |  |
@@ -92,6 +94,7 @@ Daily Data Structures and Algorithms (NeetCode 250)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/SaachiDuggal/LeetCode-DSA/tree/master/0392-is-subsequence) |
 ## Linked List
